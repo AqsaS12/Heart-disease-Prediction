@@ -37,8 +37,8 @@ Or run directly in Google Colab without installation.
 Hybrid model achieved 3% higher accuracy compared to using GoogLeNet or AlexNet individually.
 
 📬 Contact
-Aqsa Khan
-📧 Email: youremail@example.com
+Aqsa Sarfraz
+📧 Email: aqsasarfraz656@gmail.com
 
 
 
